@@ -1,0 +1,6 @@
+[
+  { "name": "1-cover.jpg", "query": "?shot=cover&scene=coast&title=NEON%20TIDES", "w": 1080, "h": 1080 },
+  { "name": "2-editor.jpg", "query": "?shot=editor&scene=tower&title=BOULEVARD%20QUEEN", "w": 1280, "h": 900 },
+  { "name": "3-cover.jpg", "query": "?shot=cover&scene=tower&title=BOULEVARD%20QUEEN&palette=midnight", "w": 1080, "h": 1080 },
+  { "name": "4-variant.jpg", "query": "?shot=variant&scene=palm&title=AFTERGLOW", "w": 1280, "h": 720 }
+]
